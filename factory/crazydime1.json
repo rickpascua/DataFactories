@@ -1,0 +1,9 @@
+{
+	"name": "crazydime1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "79b2d735-7ff9-491f-ac9b-6f6871e0939d",
+		"tenantId": "3587a088-bb99-459d-833c-6587046a7c28"
+	}
+}
